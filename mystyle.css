@@ -74,7 +74,7 @@ input, textarea {
     .About {background-color: #494848; color: #fff; border: 0px;}
  }
  @media (max-width: 360px){
-    body {background-color: #fafce6;}
+    body {background-image: url("resources/background2.jpg");}
     h1 {font-size: 25px;}
     h2 {font-size: 24px;}
     p {font-size: 19px;}
@@ -83,4 +83,5 @@ input, textarea {
     nav {text-align: center;}
     header {padding: 26px;}
     video {width: 145px;}
+    .About {background-color: #494848;}
  }

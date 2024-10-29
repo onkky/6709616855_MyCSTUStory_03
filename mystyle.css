@@ -63,14 +63,19 @@ nav ul {
     color:#ffff;
     text-decoration: none;
  }
+ input, textarea {
+    width: 100%;
+    max-width: 500px;
+ }
  @media (max-width: 768px){
-    body {background-color: #fff;}
+    body {background-color: #fafce6;}
     img {width: 100px;}
     p {font-size: 24px;}
     li {font-size: 24px;}
     h2 {font-size: 33px;}
  }
  @media (max-width: 360px){
+    body {background-color: #fafce6;}
     h1 {font-size: 25px;}
     h2 {font-size: 24px;}
     p {font-size: 19px;}
